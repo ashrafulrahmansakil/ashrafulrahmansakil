@@ -11,9 +11,9 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-ars-sakil.vercel.app/](https://portfolio-ars-sakil.vercel.app/)
 
-- 💬 Ask me about **I am a Tech Enthusiast, leaning towards programming search of unknown facts**
+- 💬 Ask me about **I am a Tech Enthusiast, leaning towards programming, in search of unknown facts**
 
-- 📫 How to reach me **ashrafulrahmansakil`**
+- 📫 How to reach me **ashrafulrahmansakil**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
